@@ -10,7 +10,7 @@ indicator
 indicator-radius=120
 indicator-thickness=20
 clock
-timestr=%I:%M %p
+timestr=%H:%M
 datestr=%A, %d %B
 color=1e1e2e
 bs-hl-color=f5e0dc
